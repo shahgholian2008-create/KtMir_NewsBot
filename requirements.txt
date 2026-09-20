@@ -1,4 +1,3 @@
-feedparser
-pandas
-openpyxl
+Flask
 requests
+gunicorn
